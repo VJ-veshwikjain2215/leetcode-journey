@@ -1,0 +1,13 @@
+# Local environment and generated output
+.env
+.env.*
+!**/.env.example
+**/node_modules/
+**/__pycache__/
+*.py[cod]
+**/.venv/
+**/target/
+**/build/
+*.class
+.DS_Store
+Thumbs.db
